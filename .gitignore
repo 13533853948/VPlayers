@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d3c86bd5d73ba2597720d01dd519d15bf9433bbd
 # ---> Android
 # Built application files
 *.apk
@@ -33,6 +36,7 @@ proguard/
 # Android Studio captures folder
 captures/
 
+<<<<<<< HEAD
 =======
 *.iml
 .gradle
@@ -44,3 +48,5 @@ captures/
 /captures
 .externalNativeBuild
 >>>>>>> first commit
+=======
+>>>>>>> d3c86bd5d73ba2597720d01dd519d15bf9433bbd
