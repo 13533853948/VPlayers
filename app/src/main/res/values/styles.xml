@@ -8,4 +8,28 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!--<dimen name="fixed_width_padding">10dp</dimen>-->
+
+    <!--<dimen name="bottom_navigation_height">48dp</dimen>-->
+    <!--覆盖BottomNavigationBar高度-->
+    <!--<dimen name="fixed_height_bottom_padding">5dp</dimen>-->
+    <!--导航控制器图标和文字间距调整-->
+
+    <!--<dimen name="fixed_icon_grid">30dp</dimen>-->
+    <!--<dimen name="fixed_icon_badge_grid_height">36dp</dimen>-->
+    <!-- this adds 6 dp extra to top and bottom icon -->
+    <!--<dimen name="fixed_icon_badge_grid_width">48dp</dimen>-->
+    <!-- this adds 6 dp extra to top and bottom icon -->
+
+    <!--<dimen name="fixed_height">56dp</dimen>-->
+    <!--<dimen name="fixed_height_top_padding_inactive">2dp</dimen>-->
+    <!-- 8(Top Padding) - 12/2(extra padding due to badges) = 2 -->
+    <!--<dimen name="fixed_height_top_padding_active">0dp</dimen>-->
+    <!-- 6(Top Padding) - 12/2(extra padding due to badges) = 0 -->
+    <!--<dimen name="fixed_height_bottom_padding">13dp</dimen>-->
+
+    <!--<dimen name="bottom_navigation_elevation">8dp</dimen>-->
+    <dimen name="bottom_navigation_height">48dp</dimen>
+    <!--<dimen name="bottom_navigation_padded_height">64dp</dimen>-->
+    <!--<dimen name="bottom_navigation_top_margin_correction">-8dp</dimen>&lt;!&ndash; 64 - 56 = 8 &ndash;&gt;-->
 </resources>

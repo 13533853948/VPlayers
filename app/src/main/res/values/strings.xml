@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">VPlayers</string>
+
+    <string name="homeOne">首页</string>
+    <string name="homeTwo">发现</string>
+    <string name="homeThree">我的</string>
+
 </resources>
